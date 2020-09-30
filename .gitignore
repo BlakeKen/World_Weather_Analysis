@@ -2,6 +2,7 @@
 # Adding config.py file.
 config.py
 Vacation_Search/configCopy1.py
+Vacation_Itinerary/config.py
 #adding additional files
 API_practice.ipynb
 random_numbers.ipynb
